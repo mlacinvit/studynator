@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/studynator/static/css/main.e6c13ad2.css",
-    "main.js": "/studynator/static/js/main.41f5ab26.js",
+    "main.js": "/studynator/static/js/main.7425f8f1.js",
     "index.html": "/studynator/index.html",
     "main.e6c13ad2.css.map": "/studynator/static/css/main.e6c13ad2.css.map",
-    "main.41f5ab26.js.map": "/studynator/static/js/main.41f5ab26.js.map"
+    "main.7425f8f1.js.map": "/studynator/static/js/main.7425f8f1.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.41f5ab26.js"
+    "static/js/main.7425f8f1.js"
   ]
 }
