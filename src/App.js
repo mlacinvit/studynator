@@ -2,7 +2,7 @@
 function App() {
   return (
     <div>
-      This is clean!
+      This is remove!
     </div>
   );
 }
